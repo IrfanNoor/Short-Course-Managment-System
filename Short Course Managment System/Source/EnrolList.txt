@@ -1,0 +1,13 @@
+S1,001,Trent Jackson,true
+S1,003,Trent Jackson,false
+S1,003,Lyn Jackson,true
+S1,001,Lyn Jackson,false
+S1,005,Lyn Jackson,false
+S1,005,Lucy Jackson,false
+S1,001,Gary Jackson,true
+S1,001,Lucy Jackson,true
+S1,003,test 1,true
+S1,003,test 2,true
+S1,005,test 1,false
+S1,005,test 2,false
+S1,005,test 3,true
